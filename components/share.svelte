@@ -18,7 +18,7 @@
 	<div id="socialShare" class="mt-4">
 		<a
 			class="icon whatsapp"
-			href={'whatsapp://send?text=' + url}
+			href={'https://wa.me/?text=' + url}
 			data-action="share/whatsapp/share"
 			target="_blank"
 			rel="noopener"
